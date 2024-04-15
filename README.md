@@ -1,2 +1,2 @@
-# CS361_Assignment2
- CS361_Assignment2
+# This is a commit
+# This is for the Part1: Environment Setup Test Commit
